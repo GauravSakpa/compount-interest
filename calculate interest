@@ -4,3 +4,4 @@ n= float(numberField.get())
 t= float(timeField.get())
 amount = principal * pow((1 + (rate_of_interest / (100 * number))), number * time)  
 ci = amount - principal  
+new one updated
