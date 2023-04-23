@@ -1,0 +1,6 @@
+p= float(principalField.get())  
+r= float(rateField.get())  
+n= float(numberField.get())  
+t= float(timeField.get())
+amount = principal * pow((1 + (rate_of_interest / (100 * number))), number * time)  
+ci = amount - principal  
